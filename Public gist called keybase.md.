@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am choirulrochim on github.
+  * I am choirulrochim (https://keybase.io/choirulrochim) on keybase.
+  * I have a public key ASCy6TWvQsb64NqbuTLKhk9WrfI11nW8HxoM5nbZ22ByGAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b2e935af42c6fae0da9bb932ca864f56adf235d675bc1f1a0ce676d9db6072180a",
+      "host": "keybase.io",
+      "kid": "0120b2e935af42c6fae0da9bb932ca864f56adf235d675bc1f1a0ce676d9db6072180a",
+      "uid": "4810ec402d69dbbd7123c339fc706219",
+      "username": "choirulrochim"
+    },
+    "merkle_root": {
+      "ctime": 1573928402,
+      "hash": "fa8841bfda3b34a4b14207f422df4216286ff331c34401506024157ac1e5d1bd4b0506961fc00bd936acd5f9dbfbaf69dced1089f17a85efd1f67987d74cad23",
+      "hash_meta": "1c6cc5955d2b8d0074b66eaf3934cbc296ae24758610b2dd0e4b26699dbaf7ae",
+      "seqno": 9848131
+    },
+    "service": {
+      "entropy": "2JKy/DSmKyyw846Xbxr3P67+",
+      "name": "github",
+      "username": "choirulrochim"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573928413,
+  "expire_in": 504576000,
+  "prev": "aa469927971b915ab5ccfbc4c95a96453516dec80d3bc1248ca78ecf70268944",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASCy6TWvQsb64NqbuTLKhk9WrfI11nW8HxoM5nbZ22ByGAo](https://keybase.io/choirulrochim), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsuk1r0LG+uDam7kyyoZPVq3yNdZ1vB8aDOZ22dtgchgKp3BheWxvYWTESpcCCMQgqkaZJ5cbkVq1zPvEyVqWRTUW3sgNO8EkjKeOz3AmiUTEII1eT+1L40rrMYGMYnqwADnr7tJI9uxZAD4Fg31TwQOeAgHCo3NpZ8RAqR9i0vZoqALjwHfHpVY49qPvglmDVE+w8eZ41yB9ZDa5TQV72gQNmYm+u5/5sCOhn8P0JJQgdSINZe+DwerIBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP8qgE40QfLDsWxXnNJKxvP7UcMeg66yFI6FylXSAa4Wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/choirulrochim
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id choirulrochim
+```
